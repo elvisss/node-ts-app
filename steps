@@ -1,0 +1,15 @@
+- npm init --yes
+- tsc --init
+- npm install -g typescript ts-node
+
+
+
+
+
+
+
+
+
+
+
+// https://www.youtube.com/watch?v=UipIQ81kabs
